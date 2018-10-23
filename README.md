@@ -1,6 +1,7 @@
 # presentations
 
 Slides from my presentations in various conferences:
+
 [1] Adam Tsakalidis, Nikolaos Aletras, Alexandra I. Cristea, and Maria Liakata. "Nowcasting the Stance of Social Media Users in a Sudden Vote: The Case of the Greek Referendum". In ACM CIKM 2018.
 Link to our paper: https://dl.acm.org/citation.cfm?id=3271783
 
